@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "name": "Frost",
+    "image": "https://static.giantbomb.com/uploads/square_small/16/164924/3095347-0229191204-58379.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Baraka",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746062-1745793_24432_bd_baraka_color_122_588lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "Blaze",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/7661/657774-blaze_krypt.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Bo' Rai Cho",
+    "image": "https://static.giantbomb.com/uploads/square_small/8/87790/1539889-boraicho_bio.png",
+    "isClicked": false
+
+  },
+  {
+    "id": 5,
+    "name": "Chameleon",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/118253/1653864-chameleon_mugshot.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Cyrax",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746083-1745795_24434_bd_cyrax_color_122_514lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Ermac",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746084-1745796_24436_bd_ermac_color_122_74lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "Goro",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/2487/2679948-2679207-mortalkombatx_goro.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "Jade",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746056-1745797_24438_bd_jade_color_122_82lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Jackson Briggs",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/2218/453143-jaxversus2.png",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Johnny Cage",
+    "image": "https://static.giantbomb.com/uploads/square_small/9/93538/2748257-2686972815-latest",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "name": "Kabal",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746086-1745800_24734_bd_kabal_color_122_245lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 13,
+    "name": "Kano",
+    "image": "https://static.giantbomb.com/uploads/square_small/9/93538/2744766-3640452514-Morta.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 14,
+    "name": "Kenshi",
+    "image": "https://static.giantbomb.com/uploads/square_small/9/93538/2750347-1027080088-mk_me.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 15,
+    "name": "Kintaro",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1847736-ladder2kintaro.png",
+    "isClicked": false
+  },
+  {
+    "id": 16,
+    "name": "Kung Lao",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746088-1745805_24928_bd_kunglao_color_122_133lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 18,
+    "name": "Kurtis Stryker",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746058-1745821_25305_bd_stryker_color_122_189lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 19,
+    "name": "Liu Kang",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746089-1745806_24929_bd_liukang_color_122_561lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 20,
+    "name": "Mileena",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/118253/1682201-mileenaart2011.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 21,
+    "name": "Motaro",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/140/214070-art_motaro.gif",
+    "isClicked": false
+  },
+  {
+    "id": 22,
+    "name": "Noob Saibot",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746092-1745809_24933_bd_noob_color_122_183lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 23,
+    "name": "Quan Chi",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746093-1745810_24935_bd_quanchi_color_122_36lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 24,
+    "name": "Raiden",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/1992/3075082-screen%20shot%202019-01-13%20at%2012.41.25%20pm.png",
+    "isClicked": false
+  },
+  {
+    "id": 25,
+    "name": "Reptile",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746095-1745812_25141_bd_reptile_color_122_64lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 26,
+    "name": "Scorpion",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/1992/3075080-screen%20shot%202019-01-13%20at%2012.27.06%20pm.png",
+    "isClicked": false
+  },
+  {
+    "id": 27,
+    "name": "Sektor",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746096-1745814_25144_bd_sektor_color_122_153lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 28,
+    "name": "Shan Tsung",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746097-1745815_25146_bd_shangtsung_color_122_96lo.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 29,
+    "name": "Shao Kahn",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/1992/3075081-screen%20shot%202019-01-13%20at%2012.32.55%20pm.png",
+    "isClicked": false
+  },
+  {
+    "id": 30,
+    "name": "Shinnok",
+    "image": "https://static.giantbomb.com/uploads/square_small/9/93538/2744552-1103695738-latest",
+    "isClicked": false
+  },
+  {
+    "id": 31,
+    "name": "Smoke",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/2487/1745826-smoke_mk_2011_vs_pose.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 32,
+    "name": "Sub-Zero",
+    "image": "https://static.giantbomb.com/uploads/square_small/0/1992/2663932-cds.jpeg",
+    "isClicked": false
+  },
+  {
+    "id": 33,
+    "name": "Nightwolf",
+    "image": "https://static.giantbomb.com/uploads/square_small/11/110502/1746091-1745808_24931_bd_nightwolf_color_122_490lo.jpg",
+    "isClicked": false
+  }
+]
